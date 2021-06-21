@@ -8,5 +8,5 @@ Program 5 - Escape room price calculator
 Program 6 - Grade calculator (uses a .txt file)  
 Program 7 - Lap calculator (fastest, slowest and average)  
 Program 8 - Sentence Calculator  
-Program 9 - Truck Rental Rate Calculator  
+Final Project - Truck Rental Rate Calculator  
  
